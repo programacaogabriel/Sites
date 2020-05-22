@@ -1,0 +1,67 @@
+body{
+
+ background-image: url("imagens/fundo.png");
+ font-size: 16px;
+}
+
+.fundo{
+ /*border: 2px solid red;*/
+ width: 900px;
+ background-color: #D2D2C0;
+ }
+
+ .menu{
+ 	font-size: 16px;
+ 	font-family: Arial, Helvetica, sans-serif;
+ 	text-align: left;
+
+
+ 	 }
+
+ 	 a{
+ 	 	text-decoration: none;
+ 	 	color:#262235;
+ 	 	font-weight: bold;
+ 	 	padding: 10px;
+ 	 }
+
+ .leitura{
+ 	/*border: 1px solid red;*/
+background-color: #FBF8EF;
+width: 900px;
+
+ }
+
+
+ .marg{
+
+ 	padding: 4px;
+	margin:10px;
+	font-family:Arial, Helvetica, sans-serif;
+
+
+ }
+
+ .rodape{
+ 	text-align: center;
+
+}
+
+h2 {
+	color: #D2D2C0;
+	font-weight: bold;
+	font-size: 20px;
+
+
+
+}
+
+.borda{
+
+	border: 10px solid;
+	width: 640px;
+	height: 425px;
+	border-color: #D2D2C0;
+
+
+	}

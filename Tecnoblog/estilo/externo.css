@@ -1,0 +1,166 @@
+ body{
+
+	background-color: #d3d3d3;
+	font-family: Arial, Helvetica, sans-serif;
+		}
+
+
+#menu{
+	background-color:  #ffd700;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	height: 170px;
+
+}
+
+h1{
+
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 30px;
+	font-size: 3em;
+
+		}
+
+	a{
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	position: relative;
+	left: 440px;
+	padding: 10px;
+	
+}
+a:hover{
+	color: #ffd700;	
+	background: white;
+
+		}
+p{
+ padding-left: 20px;
+	}
+
+img{
+margin: 0px 0px 0px 20px;
+}
+h2{
+margin-left: 20px;
+color: #ffd700;
+}
+
+
+.alinhar{
+
+	position: relative;
+	top: -25px;
+	margin-left: 2px;
+}
+.alinhar2{
+
+	position: relative;
+	top: -15px;
+	margin-left: -10px;
+}
+
+.fundo{
+width: 100%;
+background: #d3d3d3;
+}
+
+.postagem{
+	position: relative;
+	top: 180px;
+	margin: 0px;
+	left: 190px;
+	width: 690px;
+	background-color: white;
+}
+
+.postagem a{
+
+	color: #ffd700;
+	position: relative;
+	top: -10px;
+	margin: 0px;
+	left: 10px;
+}
+.postagem5 a{
+
+
+	color: #ffd700;
+	position: relative;
+	top: 10px;
+	margin: 0px;
+	left: 10px;
+	
+	
+}
+h4{
+background-color: gray;
+margin: 10px;
+padding: 5px;
+
+}
+
+.rodape{
+	position: relative;
+	top: 190px;
+	left: 190px;
+	width: 950px;
+	border: 2px solid gray;
+	background-color: gray;
+	text-align: center;
+
+}
+
+.postagem2{
+	position: relative;
+	top: 255px;
+	margin: 0px;
+	left: 890px;
+	width: 300px;
+	border: 2px solid red;
+	background-color: white;
+
+
+
+}
+.postagem3{
+	
+	
+	width: 300px;
+
+}
+.postagem4{
+	
+	
+	background: white;
+	width: 300px;
+	height: 180px;
+	position: absolute;
+	top: 200px;	
+	right: 150px;
+	z-index: 1;
+}
+.postagem5{
+	
+	
+	background: white;
+	width: 300px;
+	height: 170px;
+	position: absolute;
+	top: 200px;	
+	right: -1px;
+	z-index: 2;
+}
+.clear{
+clear: both;
+}
+.branco{
+
+	color: white;
+}
+
+
