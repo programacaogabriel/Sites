@@ -8,7 +8,37 @@
           position: relative;
           left: 280px;
           top: -260px;
+          
       }
+/*Menu*/
+ul{
+    width: 800px;
+    list-style-type: none;
+    height:50px;
+    margin: 0px;
+    padding: 0px;
+    border:1px solid red;
+    position: absolute;
+    left: 260px;
+    top: 120px;
+    font-size: 17px;
+    background-color:rgb(177, 0, 0);
+    
+
+}
+
+ul a{
+    
+    display: inline;
+    text-decoration: none;
+    color: white;
+    float: left;
+    margin: 30px;
+    margin-top: 17px;
+
+}
+
+
 
 /*nome Cidade Noticias*/
 .nomeLogo{
